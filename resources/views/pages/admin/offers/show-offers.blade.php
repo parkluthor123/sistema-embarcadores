@@ -44,8 +44,8 @@
                                     <th scope="col">Produto</th>
                                     <th scope="col">Quantidade</th>
                                     <th scope="col">End. Coleta</th>
-                                    <th scope="col">Status</th>
                                     <th scope="col">End. Entrega</th>
+                                    <th scope="col">Status</th>
                                 </tr>
                             </thead>
                             <tbody>
